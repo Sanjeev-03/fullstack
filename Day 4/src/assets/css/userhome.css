@@ -1,0 +1,12 @@
+.uhb {
+  margin-bottom: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/new-app/src/assets/images/home1.jpg");
+  /* font-size: 15px; */
+}
+.uhbd {
+  color: rgb(6, 5, 5);
+  background-color: gray;
+  /* margin: 100px; */
+}
