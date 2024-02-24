@@ -1,0 +1,46 @@
+.serb2 {
+    background-color: white;
+    padding: 20px;
+    /* Add padding for better spacing */
+  }
+  
+  .serb2 h1 {
+    font-size: 40px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+  
+  .sec1 {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Align items vertically */
+    /* margin-top: 20px; */
+    /* Adjust margin for spacing */
+  }
+  
+  .sp1 {
+    font-family: cursive;
+    flex: 1; /* Allow the text content to grow */
+    margin-right: 20px; /* Add margin for spacing */
+    font-size: 20px;
+    margin-left: 50px;
+  }
+  
+  .sp1 p {
+    font-size: 40px;
+  }
+  
+  .si1 img {
+    margin-top: 100px;
+    height: auto; /* Allow image to adjust its height */
+    width: 100%; /* Make image fill its container */
+    max-width: 500px; /* Limit maximum width */
+    border-radius: 15px;
+  }
+  .sph {
+    font-size: 30px;
+    margin-top: 90px;
+  }
+  .sph p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  

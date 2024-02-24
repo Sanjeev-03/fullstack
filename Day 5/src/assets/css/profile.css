@@ -1,0 +1,20 @@
+.profile-pic {
+  padding: 40px 40px 40px 40px;
+}
+.profile-Details > ul {
+  color: #000000;
+  flex-direction: column;
+  align-items: start;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 800px;
+  font-size: 20px;
+  display: flex;
+  /* color: aqua; */
+}
+.profile-home-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
